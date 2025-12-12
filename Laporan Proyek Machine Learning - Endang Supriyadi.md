@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Endang Supriyadi
+# Laporan Proyek Prediksi Harga Emas - Endang Supriyadi
 
 ## Domain Proyek
 Kondisi ekonomi dan keuangan merupakan salah satu topik yang selalu berkembang dan menjadi perhatian masyarakat, baik masyarakat indonesia maupun masyarakat dunia. Perkembangan ekonomi tersebut akan senantiasa berubah seiring naiknya kebutuhan pokok, perubahan tersebut disebabkan oleh inflasi yang menurunkan daya beli masyarakat terhadap barang atau jasa akibat nilai tukar mata uang yang menurun. Emas /_Gold_ merupakan barang yang berharga saat ini,selain sebagai perhiasan emas juga sebagai investasi. Peran investasi sangat penting untuk dapat mencegah penurunan lebih rendah lagi atau bahkan dapat meningkatkan pertumbuhan ekonomi [1]. Tujuan dari sebuah investasi adalah sebuah keuntungan maka banyak orang berinvestasi dengan emas, karena harga emas atau logam mulia cenderung stabil dan beresko rendah dibandingkan dengan investasi lain. Ketika terjadi inflasi harga emas tidak berubah dan cenderung aman [2]. Dengan teknologi machine learning memprediksi harga emas bisa dengan cepat karena cukup dengan dilatih dengan dataset yang sudah bersih sehingga bisa meningkatkan akurasi dalam memprediksi harga emas.
@@ -287,3 +287,4 @@ Referensi Jurnal : <br>
 
 link [https://jurnal-lp2m.umnaw.ac.id/index.php/JP2SH/article/view/714/518] <br>
 link [https://journal.fkpt.org/index.php/BIT/article/view/986/509]
+
